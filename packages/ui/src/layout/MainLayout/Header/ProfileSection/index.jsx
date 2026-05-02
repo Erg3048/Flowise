@@ -60,7 +60,7 @@ const dataToExport = [
     'Assistants Custom',
     'Assistants OpenAI',
     'Assistants Azure',
-    'Chatflowss',
+    'Chatflows',
     'Chat Messages',
     'Chat Feedbacks',
     'Custom Templates',
